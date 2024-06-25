@@ -8,7 +8,7 @@
       <link href="/post/6dd6108f.html"/>
       <url>/post/6dd6108f.html</url>
       
-        <content type="html"><![CDATA[<h3 id="数据安全有哪几个技术点？"><a href="#数据安全有哪几个技术点？" class="headerlink" title="数据安全有哪几个技术点？"></a>数据安全有哪几个技术点？</h3><ul><li>数字签名</li><li>公钥私钥</li><li>主密钥、工作密钥、会话密钥、PIN密钥。</li><li>数字信封，PKCS#7</li><li>CFCA</li><li>SM2</li><li>SM3</li><li>SM4</li><li>RSA（RSA工具集-openssl,rsatool,RsaCtfTool,RSAtool）</li><li>DESede</li><li>RC4</li><li>数字信封，签名和验签</li><li>p1和p7签名,P12</li><li>公钥认证中心（CA），保证公钥的安全</li><li>HTTPS</li><li>MD5 +盐值</li><li><a href="http://gmssl.org/">http://gmssl.org/</a></li><li>数据水印</li><li>隐私计算</li><li>脱敏</li><li>联邦计算</li></ul>]]></content>
+        <content type="html"><![CDATA[<h2 id="数据安全"><a href="#数据安全" class="headerlink" title="数据安全"></a>数据安全</h2><ul><li>数据安全我们可以从一下个角度考虑</li><li>数据输入安全</li><li>数据传输安全</li><li>数据处理安全</li><li>数据存储安全</li><li>数据备份策略<h3 id="数据输入和数据传输安全有哪几个技术点？"><a href="#数据输入和数据传输安全有哪几个技术点？" class="headerlink" title="数据输入和数据传输安全有哪几个技术点？"></a>数据输入和数据传输安全有哪几个技术点？</h3></li><li>数字签名</li><li>公钥私钥</li><li>主密钥、工作密钥、会话密钥、PIN密钥。</li><li>数字信封，PKCS#7</li><li>CFCA</li><li>SM2</li><li>SM3</li><li>SM4</li><li>RSA（RSA工具集-openssl,rsatool,RsaCtfTool,RSAtool）</li><li>DESede</li><li>RC4</li><li>数字信封，签名和验签</li><li>p1和p7签名,P12</li><li>公钥认证中心（CA），保证公钥的安全</li><li>HTTPS</li><li>MD5 +盐值</li><li><a href="http://gmssl.org/">http://gmssl.org/</a></li><li>数据水印</li><li>隐私计算</li><li>脱敏</li><li>联邦计算</li></ul>]]></content>
       
       
       
