@@ -27,6 +27,31 @@
     
     
     <entry>
+      <title>领域驱动-从战略、战术到落地系列</title>
+      <link href="/post/f02f08d.html"/>
+      <url>/post/f02f08d.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="领域驱动-从战略、战术到落地系列"><a href="#领域驱动-从战略、战术到落地系列" class="headerlink" title="领域驱动-从战略、战术到落地系列"></a>领域驱动-从战略、战术到落地系列</h3><ol><li><a href="https://mp.weixin.qq.com/s/sD1V8G9qjvdRbyioOAIljg">DDD之领域及领域划分</a></li><li><a href="https://mp.weixin.qq.com/s/LR7Efj0hDWrkl-JP5GFJjQ">DDD 之聚合</a>  <span id="more"></span></li><li><a href="https://mp.weixin.qq.com/s/H_83Hj0ywLwU9wRRPz26jQ">DDD主要概念以及之间的关系</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247484702&amp;idx=1&amp;sn=be7bd25a8460841f8da6f5a50b15282b&amp;chksm=ec702bdbdb07a2cd42dd011c5ba91487e8240ad3b472cc956514bc6bcbdc66cb1e2a1ac5fdcd&amp;scene=178&amp;cur_album_id=2499292693789949953#rd">落地DDD的方法</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247484492&amp;idx=1&amp;sn=40dfcf39d660450b2e07431231edf579&amp;chksm=ec702a89db07a39f0579a07f2645a28913a8774a5567bcbac7d793f2eb63fd84b593287e91e4&amp;scene=178&amp;cur_album_id=2499292693789949953#rd">DDD管理软件的复杂度</a></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 领域设计 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> DDD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>通过SSH连接到GitHub</title>
       <link href="/post/cf0d23e5.html"/>
       <url>/post/cf0d23e5.html</url>
@@ -79,73 +104,6 @@
     
     
     <entry>
-      <title>领域驱动-从战略、战术到落地系列</title>
-      <link href="/post/f02f08d.html"/>
-      <url>/post/f02f08d.html</url>
-      
-        <content type="html"><![CDATA[<h3 id="领域驱动-从战略、战术到落地系列"><a href="#领域驱动-从战略、战术到落地系列" class="headerlink" title="领域驱动-从战略、战术到落地系列"></a>领域驱动-从战略、战术到落地系列</h3><ol><li><a href="https://mp.weixin.qq.com/s/sD1V8G9qjvdRbyioOAIljg">DDD之领域及领域划分</a></li><li><a href="https://mp.weixin.qq.com/s/LR7Efj0hDWrkl-JP5GFJjQ">DDD 之聚合</a>  <span id="more"></span></li><li><a href="https://mp.weixin.qq.com/s/H_83Hj0ywLwU9wRRPz26jQ">DDD主要概念以及之间的关系</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247484702&amp;idx=1&amp;sn=be7bd25a8460841f8da6f5a50b15282b&amp;chksm=ec702bdbdb07a2cd42dd011c5ba91487e8240ad3b472cc956514bc6bcbdc66cb1e2a1ac5fdcd&amp;scene=178&amp;cur_album_id=2499292693789949953#rd">落地DDD的方法</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247484492&amp;idx=1&amp;sn=40dfcf39d660450b2e07431231edf579&amp;chksm=ec702a89db07a39f0579a07f2645a28913a8774a5567bcbac7d793f2eb63fd84b593287e91e4&amp;scene=178&amp;cur_album_id=2499292693789949953#rd">DDD管理软件的复杂度</a></li></ol>]]></content>
-      
-      
-      <categories>
-          
-          <category> 领域设计 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> DDD </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>JVM生产环境调优</title>
-      <link href="/post/623b3d7b.html"/>
-      <url>/post/623b3d7b.html</url>
-      
-        <content type="html"><![CDATA[<h3 id="JVM调优的基本问题"><a href="#JVM调优的基本问题" class="headerlink" title="JVM调优的基本问题"></a>JVM调优的基本问题</h3><h4 id="为什么要调优"><a href="#为什么要调优" class="headerlink" title="为什么要调优"></a>为什么要调优</h4><ol><li>防止出现OOM，进行JVM规划和预调优</li><li>解决程序运行中各种OOM</li><li>减少Full GC出现的频率，解决运行慢、卡顿问题</li></ol><h4 id="调优的大方向"><a href="#调优的大方向" class="headerlink" title="调优的大方向"></a>调优的大方向</h4><ol><li>合理地编写代码</li><li>充分并合理的使用硬件资源</li><li>合理地进行JVM调优</li></ol><h4 id="不同阶段的考虑"><a href="#不同阶段的考虑" class="headerlink" title="不同阶段的考虑"></a>不同阶段的考虑</h4><ol><li>上线前</li><li>项目运行阶段</li><li>线上出现OOM</li></ol><h4 id="调优监控的依据"><a href="#调优监控的依据" class="headerlink" title="调优监控的依据"></a>调优监控的依据</h4><ol><li>运行日志</li><li>异常堆栈</li><li>GC日志</li><li>线程快照</li><li>堆转储快照<h4 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h4></li><li><FONT color="red">调优从业务场景开始，监控先行!!</FONT></li><li><p>系统性能问题我们可以从硬件、操作系统、JVM和应用程序这几个维度进行分析,如下图<br><img src="../images/jvm1.png" alt="alt text"></p></li></ol><hr><p><strong>拓展</strong></p><ol><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247485026&amp;idx=1&amp;sn=58cce164de0da9112a1f8b637b3afb45&amp;chksm=ec7028a7db07a1b1aea1afb58597cd05558eef9e5f9ac2b4fb639fbc397512944de859a87993&amp;scene=178&amp;cur_album_id=3441485805057900545#rd">如何提高API的性能</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247485019&amp;idx=1&amp;sn=2f31fa176e19c88d261dec6776cc2375&amp;chksm=ec70289edb07a1889a08fac238a204fdee5b0cec9aacb18400682ca2e5c53b77cdbc298f482c&amp;scene=178&amp;cur_album_id=3441485805057900545#rd">Lightrun-调试Java程序生产问题的优秀工具【译】</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247484036&amp;idx=1&amp;sn=ecf091a1f52b23dd6035d30ce5c821c4&amp;chksm=ec702c41db07a55740f8bdbd2b108095fbb38e7f061f100424e719a64f3e0a7b261d0a571d29&amp;scene=21#wechat_redirect">深入研究 JVM 调优</a></li></ol>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 系统优化 </tag>
-            
-            <tag> java </tag>
-            
-            <tag> JVM </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>业务场景</title>
-      <link href="/post/3b343194.html"/>
-      <url>/post/3b343194.html</url>
-      
-        <content type="html"><![CDATA[<h3 id="什么是业务场景"><a href="#什么是业务场景" class="headerlink" title="什么是业务场景"></a>什么是业务场景</h3><p><strong>业务场景</strong> 是发现和记录业务需求的有⽤技术，在业务体系结构的分层分解中，可以在不同<br>的细节层次上迭代使⽤。业务场景分析可以参考下图<br>  <span id="more"></span><br><img src="https://cdn.jsdelivr.net/gh/dybyte/dybyte.github.io/images/02_1.png" alt="业务场景"></p><ul><li><p>逐步分解业务：</p><ul><li><p>业务能⼒映射：识别、分类和分解业务所需的业务能⼒，以便能够向⼀个或多个利益相<br>关者提供价值</p></li><li><p>组织映射：表⽰业务的组织结构（包括第三⽅域），描述业务单元，将这些单元分解为<br>较低级别的功能，以及组织关系。（单位到单位，映射到业务能⼒、位置和其他属性）</p></li><li>价值流映射：组织为创造与利益相关者交换的价值⽽执⾏的活动的分解</li><li>结构化分析：确定架构范围内的关键业务功能，并将这些功能映射到业务中的组织单元</li><li>⽤例分析：跨参与者和组织的业务级功能分解允许识别功能中的参与者，并允许分解为<br>⽀持/提供该功能能⼒的服务</li><li>流程建模：通过流程建模对功能或业务服务进⾏分解，可以识别流程的元素，并识别较<br>低级别的业务服务或功能 </li><li>所需分解的级别和严格程度因企业⽽异，企业内部也是如此，架构师应该考虑企业的⽬<br>的、⽬标、范围和企业架构的⽬的，以确定分解的级别  </li></ul><p><a href="https://t.zsxq.com/xoroW">获取完整PDF</a></p></li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 业务架构 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>什么是IT架构及架构管理</title>
       <link href="/post/c0e93fbc.html"/>
       <url>/post/c0e93fbc.html</url>
@@ -190,6 +148,48 @@
         <tags>
             
             <tag> 企业架构 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JVM生产环境调优</title>
+      <link href="/post/623b3d7b.html"/>
+      <url>/post/623b3d7b.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="JVM调优的基本问题"><a href="#JVM调优的基本问题" class="headerlink" title="JVM调优的基本问题"></a>JVM调优的基本问题</h3><h4 id="为什么要调优"><a href="#为什么要调优" class="headerlink" title="为什么要调优"></a>为什么要调优</h4><ol><li>防止出现OOM，进行JVM规划和预调优</li><li>解决程序运行中各种OOM</li><li>减少Full GC出现的频率，解决运行慢、卡顿问题</li></ol><h4 id="调优的大方向"><a href="#调优的大方向" class="headerlink" title="调优的大方向"></a>调优的大方向</h4><ol><li>合理地编写代码</li><li>充分并合理的使用硬件资源</li><li>合理地进行JVM调优</li></ol><h4 id="不同阶段的考虑"><a href="#不同阶段的考虑" class="headerlink" title="不同阶段的考虑"></a>不同阶段的考虑</h4><ol><li>上线前</li><li>项目运行阶段</li><li>线上出现OOM</li></ol><h4 id="调优监控的依据"><a href="#调优监控的依据" class="headerlink" title="调优监控的依据"></a>调优监控的依据</h4><ol><li>运行日志</li><li>异常堆栈</li><li>GC日志</li><li>线程快照</li><li>堆转储快照<h4 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h4></li><li><FONT color="red">调优从业务场景开始，监控先行!!</FONT></li><li><p>系统性能问题我们可以从硬件、操作系统、JVM和应用程序这几个维度进行分析,如下图<br><img src="../images/jvm1.png" alt="alt text"></p></li></ol><hr><p><strong>拓展</strong></p><ol><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247485026&amp;idx=1&amp;sn=58cce164de0da9112a1f8b637b3afb45&amp;chksm=ec7028a7db07a1b1aea1afb58597cd05558eef9e5f9ac2b4fb639fbc397512944de859a87993&amp;scene=178&amp;cur_album_id=3441485805057900545#rd">如何提高API的性能</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247485019&amp;idx=1&amp;sn=2f31fa176e19c88d261dec6776cc2375&amp;chksm=ec70289edb07a1889a08fac238a204fdee5b0cec9aacb18400682ca2e5c53b77cdbc298f482c&amp;scene=178&amp;cur_album_id=3441485805057900545#rd">Lightrun-调试Java程序生产问题的优秀工具【译】</a></li><li><a href="https://mp.weixin.qq.com/s?__biz=MzI5MzQ4NTQ4Mg==&amp;mid=2247484036&amp;idx=1&amp;sn=ecf091a1f52b23dd6035d30ce5c821c4&amp;chksm=ec702c41db07a55740f8bdbd2b108095fbb38e7f061f100424e719a64f3e0a7b261d0a571d29&amp;scene=21#wechat_redirect">深入研究 JVM 调优</a></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 系统优化 </tag>
+            
+            <tag> java </tag>
+            
+            <tag> JVM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>业务场景</title>
+      <link href="/post/3b343194.html"/>
+      <url>/post/3b343194.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="什么是业务场景"><a href="#什么是业务场景" class="headerlink" title="什么是业务场景"></a>什么是业务场景</h3><p><strong>业务场景</strong> 是发现和记录业务需求的有⽤技术，在业务体系结构的分层分解中，可以在不同<br>的细节层次上迭代使⽤。业务场景分析可以参考下图<br>  <span id="more"></span><br><img src="https://cdn.jsdelivr.net/gh/dybyte/dybyte.github.io/images/02_1.png" alt="业务场景"></p><ul><li><p>逐步分解业务：</p><ul><li><p>业务能⼒映射：识别、分类和分解业务所需的业务能⼒，以便能够向⼀个或多个利益相<br>关者提供价值</p></li><li><p>组织映射：表⽰业务的组织结构（包括第三⽅域），描述业务单元，将这些单元分解为<br>较低级别的功能，以及组织关系。（单位到单位，映射到业务能⼒、位置和其他属性）</p></li><li>价值流映射：组织为创造与利益相关者交换的价值⽽执⾏的活动的分解</li><li>结构化分析：确定架构范围内的关键业务功能，并将这些功能映射到业务中的组织单元</li><li>⽤例分析：跨参与者和组织的业务级功能分解允许识别功能中的参与者，并允许分解为<br>⽀持/提供该功能能⼒的服务</li><li>流程建模：通过流程建模对功能或业务服务进⾏分解，可以识别流程的元素，并识别较<br>低级别的业务服务或功能 </li><li>所需分解的级别和严格程度因企业⽽异，企业内部也是如此，架构师应该考虑企业的⽬<br>的、⽬标、范围和企业架构的⽬的，以确定分解的级别  </li></ul><p><a href="https://t.zsxq.com/xoroW">获取完整PDF</a></p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 业务架构 </tag>
             
         </tags>
       
